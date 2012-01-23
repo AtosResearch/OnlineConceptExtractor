@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/ALERT/Tools/stanford-corenlp-v1.0.3/stanford-corenlp-2011-04-22/jgrapht.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/ALERT/Tools/stanford-corenlp-v1.0.3/stanford-corenlp-2011-04-22/stanford-corenlp-2011-04-22.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/ALERT/Tools/stanford-corenlp-v1.0.3/stanford-corenlp-2011-04-22/stanford-corenlp-models-2011-04-11.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/ALERT/Tools/stanford-corenlp-v1.0.3/stanford-corenlp-2011-04-22/xom.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/ALERT/Tools/stanford-corenlp-v1.0.3/stanford-corenlp-2011-04-22/fastutil.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/ALERT/Tools/stanford-corenlp-v1.0.3/stanford-corenlp-2011-04-22/jgraph.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/Generico/Tools/lucene-3.3.0/lucene-3.3.0/lucene-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/WebN+1/Tools/Libs/openrdf-sesame-2.4.0-onejar.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/WebN+1/Tools/Libs/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/WebN+1/Tools/Libs/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/WebN+1/Tools/Libs/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/WebN+1/Tools/Libs/slf4j-simple-1.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/WebN+1/Tools/Libs/commons-logging-1.1.1/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/ALERT/Tools/arq-2.8.8/ARQ-2.8.8/lib/xercesImpl-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/ALERT/Tools/arq-2.8.8/ARQ-2.8.8/lib/arq-2.8.8.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/ALERT/Tools/arq-2.8.8/ARQ-2.8.8/lib/arq-2.8.8-tests.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/ALERT/Tools/arq-2.8.8/ARQ-2.8.8/lib/icu4j-3.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/ALERT/Tools/arq-2.8.8/ARQ-2.8.8/lib/iri-0.8.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/ALERT/Tools/arq-2.8.8/ARQ-2.8.8/lib/jena-2.6.4.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/ALERT/Tools/arq-2.8.8/ARQ-2.8.8/lib/jena-2.6.4-tests.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/ALERT/Tools/arq-2.8.8/ARQ-2.8.8/lib/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/ALERT/Tools/arq-2.8.8/ARQ-2.8.8/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/ALERT/Tools/arq-2.8.8/ARQ-2.8.8/lib/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/ALERT/Tools/arq-2.8.8/ARQ-2.8.8/lib/slf4j-log4j12-1.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/ALERT/Tools/arq-2.8.8/ARQ-2.8.8/lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Documents/Proyectos/ALERT/Tools/arq-2.8.8/ARQ-2.8.8/lib/wstx-asl-3.2.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
